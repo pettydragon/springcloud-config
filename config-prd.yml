@@ -1,0 +1,2 @@
+config:
+    info: uat config-prd.yml version=1
